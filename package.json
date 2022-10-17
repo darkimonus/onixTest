@@ -1,0 +1,23 @@
+{
+  "name": "onixtest",
+  "version": "1.0.0",
+  "description": "cryptocurrensy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "darkimonus",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "coincapjs": "^1.0.5",
+    "express": "^4.18.2",
+    "node-libcurl": "^2.3.4",
+    "request": "^2.88.2",
+    "websocket": "^1.0.34"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
